@@ -2,6 +2,11 @@
 homework 2
 
 
+
+
+
+
+
 Sub StockData()
 
 Dim ws As Worksheet
