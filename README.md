@@ -1,13 +1,9 @@
 # VBA-Challenge
 homework 2
 
-
-
-
-
-
-
 Sub StockData()
+
+'Define variables
 
 Dim ws As Worksheet
 Dim ticker As String
@@ -149,3 +145,5 @@ Dim Summary_Table_Row As Integer
                 
         
 End Sub
+
+
